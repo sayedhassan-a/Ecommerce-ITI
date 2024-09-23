@@ -1,7 +1,7 @@
 # Electro - A Simple E-Commerce Web Application for Laptops
 
 ## Project Overview
-
+**Web Site:** [Electro E-Commerce](http://ec2-13-60-44-7.eu-north-1.compute.amazonaws.com:8080/ecommerce/)<br>
 **Electro** is a web-based e-commerce application specifically designed for selling laptops. This project was built to evaluate and apply various web development technologies, including:
 
 - **Client-Side Technologies**: HTML5, CSS3, JavaScript
